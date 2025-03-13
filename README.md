@@ -1,2 +1,2 @@
-# ApartKay-t
+# ApartKayıt
 Rezervasyon kayıt uygulaması
