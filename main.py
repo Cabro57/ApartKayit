@@ -1,7 +1,6 @@
 import sys, time
 
 from PyQt5.QtCore import Qt
-from PySide2 import QtUiTools
 from PyQt5.QtGui import QIcon
 from PyQt5.QtWidgets import QSpacerItem, QSizePolicy, QMessageBox, QDialog, QStatusBar
 from PyQt5.QtWidgets import QApplication, QMainWindow, QMenuBar, QLabel, QLineEdit, QMenu, QFrame, QDateEdit, QSpinBox
