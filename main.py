@@ -10,7 +10,6 @@ from PyQt5 import QtGui, QtCore
 from qt_material import apply_stylesheet, QtStyleTools
 
 from modules import room  # Oda oluşturma modülü
-from modules import customer  # Müşteri kaydetme modülü
 from modules import reservation  # Rezervasyon kaydetme modülü
 from modules import date  # tarih döndürme modülü
 
