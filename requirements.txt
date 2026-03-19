@@ -1,2 +1,2 @@
 PyQt5
-qt-material
+qt-material==2.14
